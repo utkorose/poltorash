@@ -14,7 +14,7 @@ gdjs.MainMenuCode.condition0IsTrue_0 = {val:false};
 gdjs.MainMenuCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDButtonStartObjects1Objects = Hashtable.newFrom({"ButtonStart": gdjs.MainMenuCode.GDButtonStartObjects1});gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDButtonStartObjects1Objects = Hashtable.newFrom({"ButtonStart": gdjs.MainMenuCode.GDButtonStartObjects1});gdjs.MainMenuCode.eventsList0x6ed1bc = function(runtimeScene) {
+gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDButtonStartObjects1Objects = Hashtable.newFrom({"ButtonStart": gdjs.MainMenuCode.GDButtonStartObjects1});gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDButtonStartObjects1Objects = Hashtable.newFrom({"ButtonStart": gdjs.MainMenuCode.GDButtonStartObjects1});gdjs.MainMenuCode.eventsList0x6a03ec = function(runtimeScene) {
 
 {
 
@@ -46,7 +46,7 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRele
 }
 
 
-}; //End of gdjs.MainMenuCode.eventsList0x6ed1bc
+}; //End of gdjs.MainMenuCode.eventsList0x6a03ec
 gdjs.MainMenuCode.eventsList0x5b7a18 = function(runtimeScene) {
 
 {
@@ -80,7 +80,7 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gd
 }
 }
 { //Subevents
-gdjs.MainMenuCode.eventsList0x6ed1bc(runtimeScene);} //End of subevents
+gdjs.MainMenuCode.eventsList0x6a03ec(runtimeScene);} //End of subevents
 }
 
 }

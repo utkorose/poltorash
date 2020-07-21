@@ -81,7 +81,7 @@ gdjs.Level1Code.condition0IsTrue_0 = {val:false};
 gdjs.Level1Code.condition1IsTrue_0 = {val:false};
 
 
-gdjs.Level1Code.eventsList0x6ed02c = function(runtimeScene) {
+gdjs.Level1Code.eventsList0x8002bc = function(runtimeScene) {
 
 {
 
@@ -129,8 +129,8 @@ gdjs.Level1Code.GDMonsterObjects1.length = k;}if (gdjs.Level1Code.condition0IsTr
 }
 
 
-}; //End of gdjs.Level1Code.eventsList0x6ed02c
-gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape1Objects1ObjectsGDgdjs_46Level1Code_46GDShape2Objects1ObjectsGDgdjs_46Level1Code_46GDShape3Objects1ObjectsGDgdjs_46Level1Code_46GDShape4Objects1Objects = Hashtable.newFrom({"Shape1": gdjs.Level1Code.GDShape1Objects1, "Shape2": gdjs.Level1Code.GDShape2Objects1, "Shape3": gdjs.Level1Code.GDShape3Objects1, "Shape4": gdjs.Level1Code.GDShape4Objects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape1Objects2ObjectsGDgdjs_46Level1Code_46GDShape2Objects2ObjectsGDgdjs_46Level1Code_46GDShape3Objects2ObjectsGDgdjs_46Level1Code_46GDShape4Objects2Objects = Hashtable.newFrom({"Shape1": gdjs.Level1Code.GDShape1Objects2, "Shape2": gdjs.Level1Code.GDShape2Objects2, "Shape3": gdjs.Level1Code.GDShape3Objects2, "Shape4": gdjs.Level1Code.GDShape4Objects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDMonsterObjects2Objects = Hashtable.newFrom({"Monster": gdjs.Level1Code.GDMonsterObjects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape1Objects3Objects = Hashtable.newFrom({"Shape1": gdjs.Level1Code.GDShape1Objects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape1ExplosionObjects3Objects = Hashtable.newFrom({"Shape1Explosion": gdjs.Level1Code.GDShape1ExplosionObjects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape2Objects3Objects = Hashtable.newFrom({"Shape2": gdjs.Level1Code.GDShape2Objects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape2ExplosionObjects3Objects = Hashtable.newFrom({"Shape2Explosion": gdjs.Level1Code.GDShape2ExplosionObjects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape3Objects3Objects = Hashtable.newFrom({"Shape3": gdjs.Level1Code.GDShape3Objects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape3ExplosionObjects3Objects = Hashtable.newFrom({"Shape3Explosion": gdjs.Level1Code.GDShape3ExplosionObjects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape4Objects3Objects = Hashtable.newFrom({"Shape4": gdjs.Level1Code.GDShape4Objects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape4ExplosionObjects3Objects = Hashtable.newFrom({"Shape4Explosion": gdjs.Level1Code.GDShape4ExplosionObjects3});gdjs.Level1Code.eventsList0x74c7ec = function(runtimeScene) {
+}; //End of gdjs.Level1Code.eventsList0x8002bc
+gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape1Objects1ObjectsGDgdjs_46Level1Code_46GDShape2Objects1ObjectsGDgdjs_46Level1Code_46GDShape3Objects1ObjectsGDgdjs_46Level1Code_46GDShape4Objects1Objects = Hashtable.newFrom({"Shape1": gdjs.Level1Code.GDShape1Objects1, "Shape2": gdjs.Level1Code.GDShape2Objects1, "Shape3": gdjs.Level1Code.GDShape3Objects1, "Shape4": gdjs.Level1Code.GDShape4Objects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape1Objects2ObjectsGDgdjs_46Level1Code_46GDShape2Objects2ObjectsGDgdjs_46Level1Code_46GDShape3Objects2ObjectsGDgdjs_46Level1Code_46GDShape4Objects2Objects = Hashtable.newFrom({"Shape1": gdjs.Level1Code.GDShape1Objects2, "Shape2": gdjs.Level1Code.GDShape2Objects2, "Shape3": gdjs.Level1Code.GDShape3Objects2, "Shape4": gdjs.Level1Code.GDShape4Objects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDMonsterObjects2Objects = Hashtable.newFrom({"Monster": gdjs.Level1Code.GDMonsterObjects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape1Objects3Objects = Hashtable.newFrom({"Shape1": gdjs.Level1Code.GDShape1Objects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape1ExplosionObjects3Objects = Hashtable.newFrom({"Shape1Explosion": gdjs.Level1Code.GDShape1ExplosionObjects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape2Objects3Objects = Hashtable.newFrom({"Shape2": gdjs.Level1Code.GDShape2Objects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape2ExplosionObjects3Objects = Hashtable.newFrom({"Shape2Explosion": gdjs.Level1Code.GDShape2ExplosionObjects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape3Objects3Objects = Hashtable.newFrom({"Shape3": gdjs.Level1Code.GDShape3Objects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape3ExplosionObjects3Objects = Hashtable.newFrom({"Shape3Explosion": gdjs.Level1Code.GDShape3ExplosionObjects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape4Objects3Objects = Hashtable.newFrom({"Shape4": gdjs.Level1Code.GDShape4Objects3});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShape4ExplosionObjects3Objects = Hashtable.newFrom({"Shape4Explosion": gdjs.Level1Code.GDShape4ExplosionObjects3});gdjs.Level1Code.eventsList0x7b2bec = function(runtimeScene) {
 
 {
 
@@ -273,11 +273,11 @@ for(var i = 0, len = gdjs.Level1Code.GDShape4Objects3.length ;i < len;++i) {
 }
 
 
-}; //End of gdjs.Level1Code.eventsList0x74c7ec
-gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDObstacleObjects2Objects = Hashtable.newFrom({"Obstacle": gdjs.Level1Code.GDObstacleObjects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDMonsterObjects2Objects = Hashtable.newFrom({"Monster": gdjs.Level1Code.GDMonsterObjects2});gdjs.Level1Code.eventsList0x691b24 = function(runtimeScene) {
+}; //End of gdjs.Level1Code.eventsList0x7b2bec
+gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDObstacleObjects2Objects = Hashtable.newFrom({"Obstacle": gdjs.Level1Code.GDObstacleObjects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDMonsterObjects2Objects = Hashtable.newFrom({"Monster": gdjs.Level1Code.GDMonsterObjects2});gdjs.Level1Code.eventsList0x798df4 = function(runtimeScene) {
 
-}; //End of gdjs.Level1Code.eventsList0x691b24
-gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDObstacleObjects1Objects = Hashtable.newFrom({"Obstacle": gdjs.Level1Code.GDObstacleObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDButtonTryAgainObjects2Objects = Hashtable.newFrom({"ButtonTryAgain": gdjs.Level1Code.GDButtonTryAgainObjects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDButtonTryAgainObjects2Objects = Hashtable.newFrom({"ButtonTryAgain": gdjs.Level1Code.GDButtonTryAgainObjects2});gdjs.Level1Code.eventsList0x6c949c = function(runtimeScene) {
+}; //End of gdjs.Level1Code.eventsList0x798df4
+gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDObstacleObjects1Objects = Hashtable.newFrom({"Obstacle": gdjs.Level1Code.GDObstacleObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDButtonTryAgainObjects2Objects = Hashtable.newFrom({"ButtonTryAgain": gdjs.Level1Code.GDButtonTryAgainObjects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDButtonTryAgainObjects2Objects = Hashtable.newFrom({"ButtonTryAgain": gdjs.Level1Code.GDButtonTryAgainObjects2});gdjs.Level1Code.eventsList0x80223c = function(runtimeScene) {
 
 {
 
@@ -309,8 +309,8 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleas
 }
 
 
-}; //End of gdjs.Level1Code.eventsList0x6c949c
-gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDButtonMainMenuObjects2Objects = Hashtable.newFrom({"ButtonMainMenu": gdjs.Level1Code.GDButtonMainMenuObjects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDButtonMainMenuObjects1Objects = Hashtable.newFrom({"ButtonMainMenu": gdjs.Level1Code.GDButtonMainMenuObjects1});gdjs.Level1Code.eventsList0x7b5a54 = function(runtimeScene) {
+}; //End of gdjs.Level1Code.eventsList0x80223c
+gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDButtonMainMenuObjects2Objects = Hashtable.newFrom({"ButtonMainMenu": gdjs.Level1Code.GDButtonMainMenuObjects2});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDButtonMainMenuObjects1Objects = Hashtable.newFrom({"ButtonMainMenu": gdjs.Level1Code.GDButtonMainMenuObjects1});gdjs.Level1Code.eventsList0x8030c4 = function(runtimeScene) {
 
 {
 
@@ -342,8 +342,8 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleas
 }
 
 
-}; //End of gdjs.Level1Code.eventsList0x7b5a54
-gdjs.Level1Code.eventsList0x6ccc94 = function(runtimeScene) {
+}; //End of gdjs.Level1Code.eventsList0x8030c4
+gdjs.Level1Code.eventsList0x6a5ffc = function(runtimeScene) {
 
 {
 
@@ -378,7 +378,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs
 }
 }
 { //Subevents
-gdjs.Level1Code.eventsList0x6c949c(runtimeScene);} //End of subevents
+gdjs.Level1Code.eventsList0x80223c(runtimeScene);} //End of subevents
 }
 
 }
@@ -416,13 +416,13 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs
 }
 }
 { //Subevents
-gdjs.Level1Code.eventsList0x7b5a54(runtimeScene);} //End of subevents
+gdjs.Level1Code.eventsList0x8030c4(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Level1Code.eventsList0x6ccc94
+}; //End of gdjs.Level1Code.eventsList0x6a5ffc
 gdjs.Level1Code.eventsList0x5b7a18 = function(runtimeScene) {
 
 {
@@ -473,7 +473,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPresse
 }if (gdjs.Level1Code.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Level1Code.eventsList0x6ed02c(runtimeScene);} //End of subevents
+gdjs.Level1Code.eventsList0x8002bc(runtimeScene);} //End of subevents
 }
 
 }
@@ -621,7 +621,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 }if (gdjs.Level1Code.condition0IsTrue_0.val) {
 
 { //Subevents: 
-gdjs.Level1Code.eventsList0x74c7ec(runtimeScene);} //Subevents end.
+gdjs.Level1Code.eventsList0x7b2bec(runtimeScene);} //Subevents end.
 }
 }
 
@@ -804,7 +804,7 @@ for(var i = 0, len = gdjs.Level1Code.GDShape4Objects1.length ;i < len;++i) {
 }
 }
 { //Subevents
-gdjs.Level1Code.eventsList0x6ccc94(runtimeScene);} //End of subevents
+gdjs.Level1Code.eventsList0x6a5ffc(runtimeScene);} //End of subevents
 }
 
 }
