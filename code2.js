@@ -17,7 +17,7 @@ gdjs.ViktoryCode.condition0IsTrue_0 = {val:false};
 gdjs.ViktoryCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.ViktoryCode.mapOfGDgdjs_46ViktoryCode_46GDButtonStartObjects1Objects = Hashtable.newFrom({"ButtonStart": gdjs.ViktoryCode.GDButtonStartObjects1});gdjs.ViktoryCode.mapOfGDgdjs_46ViktoryCode_46GDButtonStartObjects1Objects = Hashtable.newFrom({"ButtonStart": gdjs.ViktoryCode.GDButtonStartObjects1});gdjs.ViktoryCode.eventsList0x6bd73c = function(runtimeScene) {
+gdjs.ViktoryCode.mapOfGDgdjs_46ViktoryCode_46GDButtonStartObjects1Objects = Hashtable.newFrom({"ButtonStart": gdjs.ViktoryCode.GDButtonStartObjects1});gdjs.ViktoryCode.mapOfGDgdjs_46ViktoryCode_46GDButtonStartObjects1Objects = Hashtable.newFrom({"ButtonStart": gdjs.ViktoryCode.GDButtonStartObjects1});gdjs.ViktoryCode.eventsList0x693584 = function(runtimeScene) {
 
 {
 
@@ -49,7 +49,7 @@ gdjs.ViktoryCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRelea
 }
 
 
-}; //End of gdjs.ViktoryCode.eventsList0x6bd73c
+}; //End of gdjs.ViktoryCode.eventsList0x693584
 gdjs.ViktoryCode.eventsList0x5b7a18 = function(runtimeScene) {
 
 {
@@ -83,7 +83,7 @@ gdjs.ViktoryCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdj
 }
 }
 { //Subevents
-gdjs.ViktoryCode.eventsList0x6bd73c(runtimeScene);} //End of subevents
+gdjs.ViktoryCode.eventsList0x693584(runtimeScene);} //End of subevents
 }
 
 }
